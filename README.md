@@ -1,10 +1,11 @@
 # Tick Tick
 
-I wrote a couple of AppleScripts to remind me to fill out my Tickspot Timecard. Sure, I could've just set a reminder or used a calendar entry, but where's the fun in that?
+I wrote a couple of AppleScripts to remind me to fill out my Tickspot Timecard. Sure, I could've just set a reminder or used a calendar entry, but where's the fun (ridiculous waste of time) in that?
 
 There are two flavours:
 
-Mavericks: `global-ticktick-mavericks.scpt`
+OSX Mavericks: `global-ticktick-mavericks.scpt`
+
 Growl: `global-ticktick-growl.scpt`
 
 Pop them somewhere readable and then add an entry into your `crontab` file to run the script - something like this:
