@@ -10,7 +10,7 @@ Growl: `growl.applescript`
 
 Pop them somewhere readable and then add an entry into your `crontab` file to run the script - something like this:
 
-`15	17	*	*	*	osascript ~/dev/ticktick/mavericks.applescript`
+`15	17	*	*	1-5 osascript ~/dev/ticktick/mavericks.applescript`
 
 If you fear the cron, I recommend the Cronnix app (google!).
 
