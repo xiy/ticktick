@@ -4,9 +4,9 @@ I wrote a couple of AppleScripts to remind me to fill out my Tickspot Timecard. 
 
 There are two flavours:
 
-OSX Mavericks: `global-ticktick-mavericks.scpt`
+OSX Mavericks: `mavericks.applescript`
 
-Growl: `global-ticktick-growl.scpt`
+Growl: `growl.applescript`
 
 Pop them somewhere readable and then add an entry into your `crontab` file to run the script - something like this:
 
